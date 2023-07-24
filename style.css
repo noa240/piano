@@ -1,0 +1,75 @@
+button {
+    height: 50px;
+    width: 500px;
+   
+}
+button:hover{
+    box-shadow: 2px 2px;
+}
+
+
+#black1
+{background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 47px;
+z-index: 3;}
+
+#black2{
+    background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 100px;
+z-index: 3;
+}
+#black3{
+    background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 250px;px;
+z-index: 3;}
+#black4
+{
+background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 300px;
+z-index: 3;}
+#black5
+{
+background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 456px;
+z-index: 3;}
+#black6
+{
+background-color: black;
+height: 20px;
+width: 300px;
+position: absolute;
+left: 8px;
+top: 506px;
+z-index: 3;}
+
+.hide {
+    display: none;
+    float: right;
+    margin: right;
+  }
+  
+  .key:hover + .hide {
+    display: block;
+    color: rgb(6, 0, 0);
+  }
+  
