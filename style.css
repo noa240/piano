@@ -65,7 +65,9 @@ z-index: 3;}
 .hide {
     display: none;
     float: right;
+    padding-right: 700px;
     margin: right;
+    
   }
   
   .key:hover + .hide {
